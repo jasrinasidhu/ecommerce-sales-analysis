@@ -2,7 +2,7 @@
 
 Exploratory data analysis of an e-commerce dataset using Python, uncovering insights on customer behaviour, top-selling products, and regional sales trends.
 
-Completed as an individual assignment for BAA5033 – Python for Business Analytics at Sunway University (August 2025).
+Completed as an individual assignment for BAA5033 - Python for Business Analytics at Sunway University (August 2025).
 
 ## Key Findings
 - **Top category by sales volume:** Beauty, followed by Clothing and Electronics
