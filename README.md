@@ -6,10 +6,10 @@ Completed as an individual assignment for BAA5033 - Python for Business Analytic
 
 ## Key Findings
 - **Top category by sales volume:** Beauty, followed by Clothing and Electronics
-- **Top revenue market:** Canada (~USD 195,337); lowest was the UK
+- **Top revenue market:** Canada (~USD 195,637); lowest was the UK
 - **Most stable markets:** India (lowest sales variability); Germany showed the highest fluctuation
 - **Best-selling product in the USA:** P0146
-- Sales peaked in 2022 after a significant dip in 2019
+- Orders peaked in 2022 after a dip in 2019
 
 ## Tech Stack
 Python, Pandas, Matplotlib, Seaborn
